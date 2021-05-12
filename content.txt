@@ -1,0 +1,50 @@
+Home
+Classes
+Resume
+Project
+About Me
+Contact
+
+<p>Hello, there! My name is Peiying, a college student majoring in New Media Technology. Welcome to my portfolio.</p?
+<p>I love to create and design. I would like to be a web designer in the future, and build many cool websites.</p>
+
+
+
+<p>My educational objectives:</p>
+<p>Develop effective communication - written and oral- skills
+Develop higher cognitive skills, critical thinking, creativity, analytical ability, leadership skills
+Cultivate the virtues, ethics, responsibility, honor, tolerance, respect for others, empathy.
+Develop focus and depth in one or more disciplines
+Develop a broad understanding of multimedia and Internet-based technologies in order to develop expertise in creating the type of digital content that is widely in demand.
+Independent thinking and learning, learning to find information, asking the right questions.</p>
+
+<p>Important Classes: </p>
+<p>HUW112 Introduction to New Media</p>
+<P>This course introduces students to New Media, opening my eyes. It explores the applications of New Media -- such as Photoshop, Illustrator, Premiere, After Effect -- and discusses its underlying technologies. This course gave me a taste of the charm of new media and stimulated my interest in image editing and video creation. The basic knowledge and techniques learned in this course lay a good foundation for the following in-depth study.</p>
+
+<p>HUW166 Introduction to Web Development</p>
+<p>This course introduces students to programming for web browsers. In this course, l could learn how web browsers work and develop using HTML and CSS as well as the Javascript programming language. I also have a preliminary understanding of related occupations to this course, which provides me with another choice for my future career. I learned that designing a good webpage requires constant testing, but designing a webpage is indeed a fun thing for me, and I enjoy this creative process.</p>
+
+<p>HUW163 Internet Video:</p>
+<p>I learn skills in multimedia and streaming video that focus on special effects and motion graphics in this course. After learning, I could use alsouse tools that include: video capture, video editing, and video compression for streaming media. It inspires me a lot in producing videos. By using the technique and knowledge learned in the course, I could make my idea of the brain in reality by making videos.</p>
+
+
+The favorite film web--this web talk about my favorite film-- Forrest Gump
+Favorite book web--this website discuss my favorite book-- The Great Gatsby
+Final Project-- this is my website building final project for the HUW166 class
+Picture work--my work created by using photoshop and Illustrator
+Video work--my work made by Premiere and After Effect
+
+
+
+Introduction video-- this is a short video for introducing myself. It is about my personal information and hobby and interests.
+
+<p>I was born and raised in China. In February 2020, I moved to the United States of America. Different cultures and languages gave me a new feeling of life. The world is diverse and I would like to pursue the things I like. I like multimedia and enjoy creating things. So I decided to attend college to learn some knowledge to support my dream. I attend CMP(Chinatown Manpower Program), which is a government program to assist new immigrants to learn English and apply for college. I have learned basic computer skills and language there, as well as met many kind and friendly guys. One of my teachers recommends applying for LaGuardia Community College. After I research this college, I felt like that the New Media Technology Major is fit my dream. There is no doubt that I join the LaGuardia family. Due to the pandemic, I have online classes for two semesters. It’s truly lonely sometimes because of the reduction of communicating with other people in person, but conversely, I have more time to think about my future life and learn how to study by myself. Anyway, I hope everything would come to normalcy.</p>
+
+https://lagcc-cuny.digication.com/peiying-deng-core-eportfolio/home-1
+
+
+My email address: peiying.deng@live.lagcc.cuny,edu
+Phone: 347-260-7929
+Facebook, linkdin, instergram
+
