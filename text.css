@@ -61,7 +61,7 @@ main{
 
 header{
 	width: 100%;
-	background-image: url("images/eye.jpg");
+	background-image: url("eye.jpg");
 	background-position: right;
 	background-size:30%,30%;
 	background-repeat:no-repeat;
